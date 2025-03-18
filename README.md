@@ -68,9 +68,6 @@ If you get any errors related to missing packages, install them using:
 - Like and comment on any blog post.
 - Log out when done.
 
-## Some Stored Credentials
-- **Email**: brian@fast.com
-- **Password**: brian123
 
 ## Technologies Used
 - Django (Backend Framework)
