@@ -76,6 +76,7 @@ If you get any errors related to missing packages, install them using:
 - Django (Backend Framework)
 - SQLite (Default Database)
 - Bootstrap (Frontend Styling)
+- MySQL (If you choose)/Any
 
 ## License
 This project is licensed under the MIT License.
@@ -84,4 +85,4 @@ This project is licensed under the MIT License.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact
-For any inquiries or support, reach out at [your email].
+For any inquiries or support, reach out at iamshimantadas@gmail.com.
